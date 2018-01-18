@@ -1,0 +1,86 @@
+#page-container
+{
+	max-width: 700px;
+	min-width: 550px;
+	padding-top: 20px;
+}
+
+#log-in-div
+{
+	margin-top: 5px;
+	padding: 12px;
+	border: solid 1px #ccc;
+	margin-bottom: 40px;
+	background-color: white;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+	border: 2px;
+}
+
+#sign-in-div
+{
+	margin-top: 5px;
+	padding: 12px;
+	border: solid 1px #ccc;
+	margin-bottom: 40px;
+	background-color: white;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+	border: 2px;
+}
+
+#log-container
+{
+	width: 80%;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.row
+{
+	padding: 0;
+}
+
+.custom-button
+{
+	text-align: right;
+	margin-top: 5px;
+	margin-right: 1%;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.tabs
+{
+	background-color: none;
+}
+
+#title
+{
+	text-align: center;
+}
+
+#error-container
+{
+	width: 80%;
+	padding: 5px;
+	border: 1px solid #b71c1c;
+	background-color: #ef5350;
+	border-radius: 2px;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#text-error
+{
+	padding-bottom: 5px;
+	margin-left: 5px;
+}
+
+.error-icon
+{
+	line-height:1px;
+
+}
